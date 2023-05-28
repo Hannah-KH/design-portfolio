@@ -85,6 +85,11 @@ body {
     background-color: var(--light);
   }
 
+  .card-link {
+  color: var(--dark);
+    text-decoration: none;
+  }
+  
 .imageContainer {
     padding: 50px;
   }
@@ -98,7 +103,8 @@ body {
   box-shadow: inset 0px 0px 8px var(--light), 0 0 15px var(--light);
 }
 
-.link {
+.contact-link {
   text-decoration: underline;
   color: var(--dark);
 }
+
