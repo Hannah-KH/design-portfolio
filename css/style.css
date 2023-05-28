@@ -39,6 +39,24 @@ body {
     justify-content: flex-start;
   }
 
+  .page-title {
+    background-color: var(--light);
+    font: var(--dark);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2rem;
+    float: left;
+    padding: 0px 10px;
+  }
+
+  .page-title1 {
+    background-color: var(--light);
+    font: var(--dark);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1rem;
+    float: left;
+    padding: 0px 10px;
+  }
+
 .About, .Work, .Contact {
     background-color: var(--light);
     font: var(--dark);
