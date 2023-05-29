@@ -1,14 +1,14 @@
 # 3-bootstrap-portfolio
 ## Description
 
-The purpose behind this project was to adapt the portfolio page I created. This version is based on Bootstrap. Some particular features include:
-- menu links jump to the relevant section
-- my profile picture links to LinkedIn
-- my 2 projects link to the deployed applications
-- all links open in a new tab
-- the design is responsive
-- box shadow is applied to buttons on hover (in this case, cards that link somewhere)
-- links are styled with a colour change on hover
+Welcome to my design portfolio. Here you can explore some of my projects and supporting artefacts including:
+- an error message dictionary
+- content cheatsheet
+- microscreens used in initial journey mapping
+- check your bin day (imagined service)
+- swap your NHS dental place (imagined service)
+
+You'll also find my full contact details.
 
 ## Installation
 
@@ -16,17 +16,9 @@ N/A
 
 ## Usage
 
-[Deployed application](https://hannah-kh.github.io/3-bootstrap-portfolio/).
+[Explore my projects and find out how to contact me](https://hannah-kh.github.io/design-portfolio/).
 
-If you inspect the page you can view the HTML and CSS and see how it works.
-
-Desktop view:
-
-![Screenshot of deployed page.](images/3DesktopView.png)
-
-Mobile view:
-
-![Screenshot of deployed page.](images/3MobileView.png)
+[Check out the code](https://github.com/Hannah-KH/design-portfolio).
 
 ## Credits
 
