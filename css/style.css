@@ -1,6 +1,8 @@
 :root {
     --dark: #28303D;
-    --light: #D0D8D8;
+    --light: #d0d8d8;
+    --mid: #6cadad;
+    --link: #64c2f8; 
   }
 
 nav a {
@@ -8,8 +10,14 @@ nav a {
     text-decoration: none;
   }
 
-.nav-link:hover, .card-link:hover, .link:hover { 
-  color: #64c2f8; 
+.nav-link:hover  { 
+  color: #629c9c; 
+  text-decoration: underline;
+  }
+
+.card-link:hover, .link:hover { 
+  color: #629c9c; 
+  text-decoration: underline;
   }
 
 body {
