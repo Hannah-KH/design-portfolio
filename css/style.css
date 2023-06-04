@@ -2,21 +2,22 @@
     --dark: #28303D;
     --light: #d0d8d8;
     --mid: #6cadad;
-    --link: #64c2f8; 
+    --link: #941E7F; 
   }
 
 nav a {
-    color: var(--light);
+    color: var(--dark);
     text-decoration: none;
+    font-weight: bold;
   }
 
 .nav-link:hover  { 
-  color: #629c9c; 
+  color: #941E7F; 
   text-decoration: underline;
   }
 
-.card-link:hover, .link:hover { 
-  color: #629c9c; 
+.card-link:hover, .link:hover, .contact-link:hover { 
+  color: #941E7F; 
   text-decoration: underline;
   }
 
@@ -56,7 +57,7 @@ body {
     padding: 0px 10px;
   }
 
-  .page-title1 {
+  .page-title1, .nav-item {
     background-color: var(--light);
     font: var(--dark);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
