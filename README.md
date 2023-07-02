@@ -1,4 +1,4 @@
-# 3-bootstrap-portfolio
+# design-portfolio
 ## Description
 
 Welcome to my design portfolio. Here you can explore some of my projects and supporting artefacts including:
